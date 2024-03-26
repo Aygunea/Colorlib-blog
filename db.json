@@ -1,0 +1,64 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Kiko Linen Slip Dress, Brown",
+      "price": 69,
+      "image": "./src/images/product1.webp",
+      "count": 0,
+      "infonew": "new"
+    },
+    {
+      "id": "2",
+      "name": "Sleeve Dress, White",
+      "price": 69,
+      "prevprice": 99,
+      "image": "./src/images/product2.webp",
+      "count": 0,
+      "infosale": "sale"
+    },
+    {
+      "id": "3",
+      "name": "Hodina Watch",
+      "price": 29,
+      "image": "./src/images/product3.webp",
+      "count": 0
+    },
+    {
+      "id": "4",
+      "name": "Triangle Low White-Black",
+      "price": 29,
+      "image": "./src/images/product4.webp",
+      "count": 0,
+      "infosale": "sale"
+    },
+    {
+      "id": "5",
+      "name": "Kid Dress, White",
+      "price": 69,
+      "prevprice": 99,
+      "image": "./src/images/product5.webp",
+      "count": 0,
+      "infosale": "sale"
+    },
+    {
+      "id": "6",
+      "name": "Lady Shoes, Brown",
+      "price": 69,
+      "prevprice": 99,
+      "image": "./src/images/product6.webp",
+      "count": 0,
+      "infosale": "sale"
+    },
+    {
+      "id": "7",
+      "name": "aa",
+      "image": "blob:http://localhost:5173/96de9f75-04c3-4c5f-af95-9d8d6e0baf41",
+      "price": 23,
+      "prevprice": 0,
+      "count": 0,
+      "infonew": "new",
+      "infosale": ""
+    }
+  ]
+}

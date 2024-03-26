@@ -1,0 +1,50 @@
+.infoCard {
+    background-color: #f8f9fa;
+    padding: 20px 0;
+}
+
+.infoCard .ant-row {
+    justify-content: space-between;
+}
+
+.infoCard .card {
+    background-color: #fff;
+    padding: 20px;
+    text-align: center;
+    margin: 0 15px;
+    display: flex;
+    flex-direction: column;
+    gap: 7px;
+}
+
+.infoCard .card h3 {
+    font-size: 11px;
+    letter-spacing: .2rem;
+    font-weight: 400;
+    text-transform: uppercase;
+}
+
+.infoCard .card p {
+    font-size: 14px;
+    color: #b3b3b3;
+    font-weight: 500;
+    line-height: 25px;
+}
+
+.infoCard .card .icon {
+    font-size: 30px;
+}
+
+@media screen and (max-width:768px) {
+
+    .infoCard .card1,
+    .infoCard .card2 {
+        margin-bottom: 15px;
+    }
+}
+
+@media screen and (max-width:576px) {
+    .infoCard .card {
+        margin-right: 0;
+    }
+}
