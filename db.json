@@ -49,16 +49,7 @@
       "image": "./src/images/product6.webp",
       "count": 0,
       "infosale": "sale"
-    },
-    {
-      "id": "7",
-      "name": "aa",
-      "image": "blob:http://localhost:5173/96de9f75-04c3-4c5f-af95-9d8d6e0baf41",
-      "price": 23,
-      "prevprice": 0,
-      "count": 0,
-      "infonew": "new",
-      "infosale": ""
     }
   ]
 }
+
